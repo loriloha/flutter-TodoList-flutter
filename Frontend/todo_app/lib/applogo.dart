@@ -6,7 +6,7 @@ Widget build(BuildContext context) {
   return Column( 
       mainAxisAlignment: MainAxisAlignment.center, 
       children: <Widget>[ 
-        Image.network("https://pluspng.com/img-png/avengerslogo-png-avengers-logo-png-1376.png",width: 100,), 
+        Image.network("https://static.vecteezy.com/system/resources/previews/012/782/675/original/avengers-logo-isolated-icon-free-vector.jpg",width: 100,), 
         "To-Do App".text.xl2.italic.make(), 
         "Make A List of your task".text.light.white.wider.lg.make(), 
       ], 
