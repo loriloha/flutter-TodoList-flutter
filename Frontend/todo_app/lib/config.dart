@@ -1,4 +1,4 @@
-final url = 'http://10.161.152.96:3000/';
+final url = 'https://flutter-todolist-assignment.onrender.com/';
 final registration = url + "register";
 final login = url + 'login';
 final addtodo = url + 'createToDo';
